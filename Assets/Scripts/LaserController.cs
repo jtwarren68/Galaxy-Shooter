@@ -14,6 +14,5 @@ public class LaserController : MonoBehaviour
         {
             Destroy(this.gameObject);
         }
-
     }
 }
